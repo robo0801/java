@@ -1,0 +1,5 @@
+INDEX VERSION 1.127+C:\황기태\잡동사니\자바축약본\소스\1장\.metadata\.plugins\org.eclipse.jdt.core
+2050950595.index
+3922062443.index
+1079231168.index
+2925372396.index
